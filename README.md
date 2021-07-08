@@ -1,8 +1,6 @@
-# fetch_data_2021
-
 ## 2 approaches to fetch data from APIs in Flutter
 
-## Getting Started:
+### Getting Started:
 
 To start developing mobile apps with Flutter you need to:
 
@@ -13,7 +11,7 @@ To start developing mobile apps with Flutter you need to:
 
 For more information about Flutter installation, see [Get Started: Install](https://flutter.dev/docs/get-started/install). To set up an editor, see [Get Started: Set up an editor](https://flutter.dev/docs/get-started/editor?tab=androidstudio). When installing an Android emulator, feel free to use the default options such as a Pixel 3 phone with the latest System Image. It's recommended but not required to enable VM acceleration. After the above 4 steps have been completed, you can return to the codelab. To complete this codelab, you only need to install Flutter for one platform (Android or iOS).
 
-### Ensure your Flutter SDK is in the right state
+#### Ensure your Flutter SDK is in the right state
 Before proceeding with this codelab, make sure that your SDK is in the right state. If the Flutter SDK was installed previously, then use flutter upgrade to ensure that the SDK is at the latest state.
 
 
