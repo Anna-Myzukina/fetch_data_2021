@@ -1,6 +1,6 @@
 # fetch_data_2021
 
-A new Flutter project.
+## 2 approaches to fetch data from APIs in Flutter
 
 ## Getting Started
 
